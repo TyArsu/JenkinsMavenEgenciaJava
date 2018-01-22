@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.865 sec <<< FAILURE! - in TestSuite
+google1(kasiapractice.test01)  Time elapsed: 4.272 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Maven Repository: Search/Browse/Explore] but found [true]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at kasiapractice.test01.google1(test01.java:17)
+
