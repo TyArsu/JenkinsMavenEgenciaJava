@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17553" started-at="2018-02-08T19:52:47Z" finished-at="2018-02-08T19:53:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17553" started-at="2018-02-08T19:52:47Z" finished-at="2018-02-08T19:53:05Z">
+      <class name="com.codistan.qaclass1.orbitz.OrbitzRunner">
+        <test-method status="PASS" signature="OrbitzSetup()[pri:0, instance:com.codistan.qaclass1.orbitz.OrbitzRunner@59f99ea]" name="OrbitzSetup" is-config="true" duration-ms="12602" started-at="2018-02-08T13:52:47Z" finished-at="2018-02-08T13:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrbitzSetup -->
+        <test-method status="PASS" signature="orbitzFlightPage()[pri:0, instance:com.codistan.qaclass1.orbitz.OrbitzRunner@59f99ea]" name="orbitzFlightPage" duration-ms="4916" started-at="2018-02-08T13:53:00Z" finished-at="2018-02-08T13:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orbitzFlightPage -->
+      </class> <!-- com.codistan.qaclass1.orbitz.OrbitzRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
